@@ -7,4 +7,4 @@
 ![amazon](img/amazon_prime_video.png)
 ## 経費の精算について
 ## 大容量のデータの送受信について
-## 書き換え
+## 変更します
